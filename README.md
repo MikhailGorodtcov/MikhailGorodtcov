@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Mikhail</h1>
 
 <h2 align="left">Beginner (intern) web developer. I study on the educational platform Skillbox</h2>
-# 💫 About Me:
+ 💫 About Me:
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**<br><br>- 📫 How to reach me **miwustrilo@gmail.com**<br><br>- 🌍 I speak Russian (native), English (B1)
 
 
