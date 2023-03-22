@@ -1,10 +1,20 @@
-<h1 align="left">Hi there, I'm Mikhail</h1>
+<h1 align="left">Hey 👋 my name is Mikhail</h1>
 
 <h2 align="left">Beginner (intern) web developer. I study on the educational platform Skillbox</h2>
- 💫 About Me:
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**<br><br>- 📫 How to reach me **miwustrilo@gmail.com**<br><br>- 🌍 I speak Russian (native), English (B1)
+
+<h2 align="left">About me</h2>
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
+
+- 📫 How to reach me **miwustrilo@gmail.com**
+
+- 🌍 I speak Russian (native), English (B1)
 
 
-### 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+### Languages:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+</div>
 
+###
