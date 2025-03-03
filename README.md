@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 my name is Mikhail!</h1>
 
-<h2 align="left">Beginner (intern) web developer. I study on the educational platform Skillbox</h2>
+<h2 align="left">Beginner (intern)</h2>
 
 <h2 align="left">About me</h2>
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
