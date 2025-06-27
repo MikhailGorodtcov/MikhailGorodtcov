@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&width=435&lines=👋+Привет,+я+Михаил+Городцов;💻+Frontend-разработчик;🛠+HTML+%7C+CSS+%7C+JavaScript+%7C+Tailwind;🔎+В+активном+поиске+работы! />
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Чистый+и+структурированный+код;Уделяю+внимание+UI%2FUX;Постоянно+совершенствую+навыки;Адаптивная+и+доступная+вёрстка;Разрабатываю+интерактивные+интерфейсы" alt="Мои принципы разработки" />
-  </a>
-</p>
-
 <div align="center">
   <a href="https://github.com/Михаил Городцов?tab=followers">
     <img src="https://img.shields.io/github/followers/mgorodtsov?label=Followers&style=social" alt="GitHub Followers">
