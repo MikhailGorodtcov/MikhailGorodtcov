@@ -51,16 +51,26 @@
 
 ### 🏆 Лучшие проекты
 
-#### 1. Современный лендинг
+#### 1. Сет отелей (HTML/CSS/JS)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://xmqcst.csb.app/)
+> Адаптивный интерфейс для просмотра отелей с фильтрацией
+
+#### 2. Портфолио (React/Tailwind)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://mw45qg.csb.app/)
+> Современное портфолио с анимациями и темной темой
+
+#### 3. Интернет-магазин (React)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://n7vy29.csb.app/)
+> Прототип интернет-магазина с корзиной товаров
+
+#### 4. Современный лендинг
 [![Код](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mgorodtsov/modern-landing)
 [![Демо](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://modern-landing.vercel.app)
-
 > **HTML5 | CSS3 | Tailwind | Адаптивный дизайн**
 
-#### 2. Интерактивное приложение
+#### 5. Интерактивное приложение
 [![Код](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mgorodtsov/interactive-app)
 [![Демо](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://interactive-app.vercel.app)
-
 > **JavaScript | LocalStorage API | Modern UI**
 
 ---
