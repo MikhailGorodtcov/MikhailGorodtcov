@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&width=435&lines= 🚀+Михаил+Городцов;💻+Frontend+Developer;🌱+HTML+%7C+CSS+%7C+JavaScript+%7C+Tailwind;🚩+Open+to+collaboration!" alt="Михаил Городцов" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&width=435&lines=👋+Привет,+я+Михаил+Городцов;💻+Frontend-разработчик;🛠+HTML+%7C+CSS+%7C+JavaScript+%7C+Tailwind;🔎+В+активном+поиске+работы! />
 </h1>
 
 <p align="center">
