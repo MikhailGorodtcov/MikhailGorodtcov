@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&width=435&lines=🚀+Михаил+Городцов;💻+Frontend+Developer;🌱+HTML+%7C+CSS+%7C+JavaScript+%7C+Tailwind;🚩+Open+to+collaboration!" alt="Анимированный заголовок" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&width=435&lines=🚀+Михаил+Городцов;💻+Frontend+Developer;🌱+HTML+%7C+CSS+%7C+JavaScript+%7C+Tailwind;🚩+Open+to+collaboration!" alt="Михаил Городцов" />
 </h1>
 
 <p align="center">
@@ -9,10 +9,10 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/mgorodtsov?tab=followers">
+  <a href="https://github.com/Михаил Городцов?tab=followers">
     <img src="https://img.shields.io/github/followers/mgorodtsov?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/mgorodtsov/">
+  <a href="https://github.com/Михаил Городцов/">
     <img src="https://komarev.com/ghpvc/?username=mgorodtsov&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
   </a>
 </div>
