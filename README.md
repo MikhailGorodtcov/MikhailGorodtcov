@@ -1,116 +1,74 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&width=435&lines=👋+Привет,+я+Михаил+Городцов;💻+Frontend-разработчик;🛠+HTML+%7C+CSS+%7C+JavaScript+%7C+Tailwind;🔎+В+активном+поиске+работы! />
-</h1>
+<h1 align="center">Михаил Городцов</h1>
+<h3 align="center">Frontend Developer | HTML | CSS | JavaScript | Tailwind</h3>
+
+<div align="center">
+  <a href="https://github.com/mgorodtsov?tab=followers">
+    <img src="https://img.shields.io/github/followers/mgorodtsov?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/mgorodtsov/">
+    <img src="https://komarev.com/ghpvc/?username=mgorodtsov&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
+  </a>
+</div>
+
 ---
 
 ### 🛠️ Технологический стек
 
 #### 🔹 Основные технологии
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="40">
 </p>
 
 #### 🔹 Инструменты
 <p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code">
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma">
-  </a>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="40">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" height="40">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" height="40">
 </p>
 
 #### 🔹 Изучаю сейчас
 <p>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js">
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite">
-  </a>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40">
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="40">
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" height="40">
 </p>
 
 ---
 
 ### 📊 GitHub статистика
 
-<div align="center">
-  <a href="https://github.com/mgorodtsov">
-    <img src="https://github-readme-stats.vercel.app/api?username=mgorodtsov&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/mgorodtsov">
-    <img src="https://streak-stats.demolab.com/?user=mgorodtsov&theme=radical&hide_border=true" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/mgorodtsov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgorodtsov&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  </a>
-  <a href="https://github.com/mgorodtsov">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mgorodtsov&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mgorodtsov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=mgorodtsov&theme=radical&hide_border=true" alt="GitHub Streak" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgorodtsov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%">
+</p>
 
 ---
 
 ### 🏆 Лучшие проекты
 
 #### 1. Современный лендинг
-[![Код](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgorodtsov/modern-landing)
-[![Демо](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://modern-landing.vercel.app)
+[![Код](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mgorodtsov/modern-landing)
+[![Демо](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://modern-landing.vercel.app)
 
 > **HTML5 | CSS3 | Tailwind | Адаптивный дизайн**
 
 #### 2. Интерактивное приложение
-[![Код](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgorodtsov/interactive-app)
-[![Демо](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://interactive-app.vercel.app)
+[![Код](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mgorodtsov/interactive-app)
+[![Демо](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://interactive-app.vercel.app)
 
 > **JavaScript | LocalStorage API | Modern UI**
 
 ---
 
-### 📫 Контакты
+### 📈 Прогресс обучения
 
-<p align="center">
-  <a href="mailto:miwustrilo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://t.me/mgorodtsov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://linkedin.com/in/mgorodtsov">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://codepen.io/mgorodtsov">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
-  </a>
-  <a href="https://leetcode.com/mgorodtsov/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-</p>
-
----
-
-<div align="center">
-  <a href="https://github.com/mgorodtsov/mgorodtsov">
-    <img src="https://raw.githubusercontent.com/mgorodtsov/mgorodtsov/output/github-contribution-grid-snake.svg" alt="Snake animation">
-  </a>
-</div>
+```text
+JavaScript        ███████████████████░░ 85% 
+React            ████████░░░░░░░░░░░░░ 40%
+Tailwind CSS     ██████████████░░░░░░░ 70%
+Алгоритмы        ████░░░░░░░░░░░░░░░░░ 25%
